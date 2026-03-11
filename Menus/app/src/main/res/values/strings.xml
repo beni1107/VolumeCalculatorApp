@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Menus</string>
+    <string name="my_own_text">Hello my friends, this text is recived from XML Files</string>
+
+    <string name="new_note">New Note</string>
+    <string name="save_note">Save Note</string>
+</resources>
