@@ -12,6 +12,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
+            android:name=".CylinderActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PrismActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CubeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SphereActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

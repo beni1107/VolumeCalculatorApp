@@ -11,7 +11,7 @@ import android.widget.TextView
 
 //Adapter class acts as a bridge between data source and the GridView
 class MyCustomAdapter(
-    val context: Context,
+     context: Context,
     private val gridItems: List<Shape>
 ) : ArrayAdapter<Shape>(context,0,gridItems){
     // context: required to access resources and layouts
